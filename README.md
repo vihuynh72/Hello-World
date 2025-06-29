@@ -1,2 +1,8 @@
 # Hello-World
-This repository is for practicing the GitHub Flow.
+Something about me:
+
+- Like walking by the beach
+- Love **Mexican** food
+- Love Math
+
+
